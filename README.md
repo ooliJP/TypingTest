@@ -8,6 +8,8 @@ Program with simple lines of random text that you have to type and this program 
 
  ### How to use:
  1. Just run the python file and that's it!
+ 
+ Note: You can edit the text file and change or add some more line of text you would like to try to type.
 
   
 
